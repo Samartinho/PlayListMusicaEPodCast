@@ -7,7 +7,6 @@ adicionar e remover artistas de uma música;
 visualizar a lista de músicas e podcasts da Playlist;
 visualizar todas as músicas de um determinado artista;
 visualizar a duração média das playlists (em segundos).
-Sua solução deve conter o diagrama de classes completo (classes, atributos, métodos, associações, heranças, cardinalidade das associações, associações de classe, etc.). Não é necessário colocar getters/setters no diagrama.
 
 Sua solução deve ter uma classe Aplicação com o método main que teste a funcionalidade do sistema.Lembre-se que não devemos colocar comandos de entrada/saída dentro de classes de negócio.
 
