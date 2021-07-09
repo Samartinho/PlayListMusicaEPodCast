@@ -1,4 +1,4 @@
-# PlayListMusicaEPodCast
+# PlayList de Musica E de PodCast
 
 Implemente uma Playlist musical que armazena as suas músicas e podcasts preferidos organizados na ordem em que deseja ouvi-los. Seu programa deve permitir ao usuário cadastrar e consultar as informações de uma música: título, duração (em segundos) e artistas, e a informação do podcast: título, duração e data de publicação. O usuário deve ser capaz de:
 
