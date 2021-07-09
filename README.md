@@ -20,3 +20,6 @@ Sua aplicação deve possuir uma exceção criada por vocês, que deverá ser la
 Sua aplicação deverá usar herança, polimorfismo, caso seja pertinente.
 
 Sua aplicação deve ter construtores não default, e quaisquer outros recursos pertinentes da programação orientada para objetos em Java.
+
+
+![enter image description here](ClassDiagram/UML%20Quest%C3%A3o%203.png)
